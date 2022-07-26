@@ -1,0 +1,5 @@
+
+ophp:S101"[Rename class "Controller_Registration" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(áö¶Œ
+l	php:S1192"RDefine a constant instead of duplicating this literal "template_view.php" 3 times.(Á¤Œ€üÿÿÿÿ
+p	php:S1192"VDefine a constant instead of duplicating this literal "registration_view.php" 3 times.(Á¤Œ€üÿÿÿÿ
+1	php:S1116"Remove this empty statement.(±ÍêÚ
